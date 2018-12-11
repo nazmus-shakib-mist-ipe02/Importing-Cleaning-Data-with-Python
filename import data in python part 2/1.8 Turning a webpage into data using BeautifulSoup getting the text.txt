@@ -1,0 +1,4 @@
+As promised, in the following exercises,
+ you'll learn the basics of extracting information from HTML soup. In this exercise, 
+you'll figure out how to extract the text from the BDFL's webpage,
+ along with printing the webpage's title
