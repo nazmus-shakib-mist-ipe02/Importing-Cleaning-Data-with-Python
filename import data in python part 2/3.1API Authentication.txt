@@ -1,0 +1,5 @@
+The package tweepy is great at handling all the Twitter API OAuth Authentication details for you. 
+All you need to do is pass it your authentication credentials. In this interactive exercise, 
+we have created some mock authentication credentials (if you wanted to replicate this at home,
+ you would need to create a Twitter App as Hugo detailed in the video).
+ Your task is to pass these credentials to tweepy's OAuth handler.
