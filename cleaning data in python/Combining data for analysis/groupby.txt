@@ -1,0 +1,7 @@
+Name,Sid,Use_Case,Revenue
+A   ,   xx01 , Voice,     $10.00
+A    ,  xx01 , SMS   ,    $10.00
+B     , xx02  ,Voice ,    $5.00
+C      ,xx03  ,Voice ,    $15.00
+C      ,xx03 , SMS   ,    $15.00
+C      ,xx03,  Video ,    $15.00
